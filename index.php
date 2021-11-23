@@ -1,1 +1,1 @@
-index.php
+echo "hellow World";
